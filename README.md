@@ -12,7 +12,7 @@ See installation_guides.txt in this repository.
 # Usage and example calculations
 See usage_guides.txt in this repository.
 
-# Latest publications used this package
+# Latest publications employed this package
 None.
 
 # References used to create this package
