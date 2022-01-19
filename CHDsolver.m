@@ -4,11 +4,8 @@
 %%% Contact:                n.saadatmand@griffith.edu.au
 %%% Created in:             2/Aug/2018
 
-%%% Notes: 
-% - ...
 
-
-function CHDsolver_TravellingWaves_LiebLinigerGases(gamma_bg,beta,sigma_bar,N_bg,dt,N_t)
+function CHDsolver(gamma_bg,beta,sigma_bar,N_bg,dt,N_t)
 
     %%% Function inputs description:
     % [...]		...
